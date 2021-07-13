@@ -48,7 +48,7 @@ pip install augly
 
 Or clone AugLy if you want to be able to run our unit tests, contribute a pull request, etc:
 ```bash
-git clone git@github.com:facebookresearch/AugLy.git && cd AugLy
+git clone https://github.com/facebookresearch/AugLy.git && cd AugLy
 [Optional, but recommended] conda create -n augly && conda activate augly && conda install pip
 pip install -e .
 ```
